@@ -13,8 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "fanofsymfony/oauth2-server-php": "1.0",
-        "bshaffer/oauth2-server-httpfoundation-bridge": "^1.2"
+        "fanofsymfony/oauth2-server-php": "1.1"
     },
     "require-dev": {
         "symfony/symfony": "^2.8|^3|^4",
