@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "fanofsymfony/oauth2-server-php": "dev-master",
+        "fanofsymfony/oauth2-server-php": "1.0",
         "bshaffer/oauth2-server-httpfoundation-bridge": "^1.2"
     },
     "require-dev": {
